@@ -23,6 +23,7 @@ The current overview of the page fits poorly as there is a lot of wasted space a
 Notes:
 
 - A: It was empty and just a header, which was bad form given I had to look all the way to the right. I do have GOG games in my account, so I'm not sure why it was empty? It should be removed if empty.
+- B: I feel a lot of this can be fixed by reducing the amount of negative space and improving the layout slightly.
 
 ![Overview of visibility](https://github.com/countnoobula/gog-galaxy-ui/blob/main/Current-Overview.png?raw=true)
 
